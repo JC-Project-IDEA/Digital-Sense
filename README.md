@@ -25,7 +25,7 @@ https://editor.p5js.org/chanlongfunglazarus/collections/otInu0Bmz
 3. 課堂Slide:
 [JC-IDEA (Student's Section) Week2.pdf](https://github.com/JC-Project-IDEA/Digital-Senses-Lesson-2/blob/main/JC-IDEA%20(Student's%20Section)%20Week2.pdf)
 
-# Digital Senses Lesson 3 : 影像：自製攝影及影像載入軟件
+# Digital Senses Lesson 3 : 聲音
 
 今天課堂將會使用的例子:
 https://editor.p5js.org/chanlongfunglazarus/collections/oDjhv9zJk
