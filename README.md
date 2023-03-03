@@ -27,5 +27,12 @@ https://editor.p5js.org/chanlongfunglazarus/collections/otInu0Bmz
 
 # Digital Senses Lesson 3 : 聲音
 
-今天課堂將會使用的例子:
+1. P5.js官網
+https://p5js.org/
+
+2. 今天課堂將會使用的例子:
 https://editor.p5js.org/chanlongfunglazarus/collections/oDjhv9zJk
+
+3. 課堂Slide:
+[JC-IDEA (Student's Section) Week3.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10877543/JC-IDEA.Student.s.Section.Week3.pdf)
+
