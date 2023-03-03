@@ -8,7 +8,7 @@ p5.js是一個用作創意編碼的JavaScript 函式庫，重點是讓藝術家�
 https://p5js.org/
 
 2. 今天課堂將會使用的例子:
-https://editor.p5js.org/chanlongfunglazarus/collections/-DPo5uX_Y
+(https://editor.p5js.org/chanlongfunglazarus/collections/-DPo5uX_Y){:target="_blank" rel="noopener"}
 
 3. 課堂Slide:
 [JC-IDEA (Student's Section) Lesson1.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878924/JC-IDEA.Student.s.Section.Lesson1.pdf)
