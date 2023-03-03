@@ -11,7 +11,8 @@ https://p5js.org/
 https://editor.p5js.org/chanlongfunglazarus/collections/-DPo5uX_Y
 
 3. 課堂Slide:
-[JC-IDEA (Student's Section) Week1 (2).pdf](https://github.com/JC-Project-IDEA/Digital-Senses-Lesson-1/files/10845941/JC-IDEA.Student.s.Section.Week1.2.pdf)
+[JC-IDEA (Student's Section) Lesson1.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878924/JC-IDEA.Student.s.Section.Lesson1.pdf)
+
 
 # Digital Senses Lesson 2 : 影像：自製攝影及影像載入軟件
 
@@ -23,7 +24,8 @@ https://p5js.org/
 https://editor.p5js.org/chanlongfunglazarus/collections/otInu0Bmz
 
 3. 課堂Slide:
-[JC-IDEA (Student's Section) Week2.pdf](https://github.com/JC-Project-IDEA/Digital-Senses-Lesson-2/blob/main/JC-IDEA%20(Student's%20Section)%20Week2.pdf)
+[JC-IDEA (Student's Section) Lesson2.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878927/JC-IDEA.Student.s.Section.Lesson2.pdf)
+
 
 # Digital Senses Lesson 3 : 聲音
 
@@ -34,5 +36,6 @@ https://p5js.org/
 https://editor.p5js.org/chanlongfunglazarus/collections/oDjhv9zJk
 
 3. 課堂Slide:
-[JC-IDEA (Student's Section) Week3.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10877543/JC-IDEA.Student.s.Section.Week3.pdf)
+[JC-IDEA (Student's Section) Lesson3.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878929/JC-IDEA.Student.s.Section.Lesson3.pdf)
+
 
