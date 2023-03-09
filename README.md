@@ -52,5 +52,15 @@ https://editor.p5js.org/chanlongfunglazarus/collections/Gk_P-XY-P
 3. 課堂Slide:
 [JC-IDEA (Student's Section) Lesson4.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/blob/main/JC-IDEA%20(Student's%20Section)%20Lesson4.pdf)
 
+4. MIDI NOTE
+https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
+
+## 自學區
+1. 完整4節課堂Slide:
+[JC-IDEA (Student's Section) Full.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/blob/main/JC-IDEA%20(Student's%20Section)%20Full.pdf)
+
+2. The Coding Train
+https://thecodingtrain.com/tracks/code-programming-with-p5-js
+
 
 
