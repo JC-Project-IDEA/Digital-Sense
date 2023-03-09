@@ -64,5 +64,8 @@ https://thecodingtrain.com/tracks/code-programming-with-p5-js
 及
 https://www.youtube.com/@TheCodingTrain
 
+3. AI 圖片生成器
+https://you.com/search?q=%40draw+a+cute+dog+in+space&tbm=imagine&cfr=imagine
+
 
 
