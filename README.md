@@ -61,6 +61,8 @@ https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
 2. The Coding Train
 https://thecodingtrain.com/tracks/code-programming-with-p5-js
+及
+https://www.youtube.com/@TheCodingTrain
 
 
 
