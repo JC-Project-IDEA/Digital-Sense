@@ -27,7 +27,7 @@ https://editor.p5js.org/chanlongfunglazarus/collections/otInu0Bmz
 [JC-IDEA (Student's Section) Lesson2.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878927/JC-IDEA.Student.s.Section.Lesson2.pdf)
 
 
-# Digital Senses Lesson 3 : 聲音
+# Digital Senses Lesson 3 : 聲音：自製錄音及聲音載入軟件
 
 1. P5.js官網
 https://p5js.org/
@@ -40,5 +40,17 @@ https://editor.p5js.org/chanlongfunglazarus/collections/oDjhv9zJk
 
 4. 開源的音樂樣本:
 https://file-examples.com/index.php/sample-audio-files/sample-mp3-download/
+
+# Digital Senses Lesson 4 : 互動：創作與聲音互動的攝影軟件
+
+1. P5.js官網
+https://p5js.org/
+
+2. 今天課堂將會使用的例子:
+https://editor.p5js.org/chanlongfunglazarus/collections/Gk_P-XY-P
+
+3. 課堂Slide:
+[JC-IDEA (Student's Section) Lesson4.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878929/JC-IDEA.Student.s.Section.Lesson4.pdf)
+
 
 
