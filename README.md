@@ -36,7 +36,7 @@ https://p5js.org/
 https://editor.p5js.org/chanlongfunglazarus/collections/oDjhv9zJk
 
 3. 課堂Slide:
-[JC-IDEA (Student's Section) Lesson3.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878929/JC-IDEA.Student.s.Section.Lesson3.pdf)
+[JC-IDEA (Student's Section) Lesson3.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/blob/main/JC-IDEA%20(Student's%20Section)%20Lesson4.pdf)
 
 4. 開源的音樂樣本:
 https://file-examples.com/index.php/sample-audio-files/sample-mp3-download/
