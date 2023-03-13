@@ -13,6 +13,9 @@ https://editor.p5js.org/chanlongfunglazarus/collections/-DPo5uX_Y
 3. 課堂Slide:
 [JC-IDEA (Student's Section) Lesson1.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878924/JC-IDEA.Student.s.Section.Lesson1.pdf)
 
+4. 老師當日示範
+https://editor.p5js.org/chanlongfunglazarus/sketches/e_hXQ4bDX
+
 
 # Digital Senses Lesson 2 : 影像：自製攝影及影像載入軟件
 
@@ -26,6 +29,9 @@ https://editor.p5js.org/chanlongfunglazarus/collections/otInu0Bmz
 3. 課堂Slide:
 [JC-IDEA (Student's Section) Lesson2.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/files/10878927/JC-IDEA.Student.s.Section.Lesson2.pdf)
 
+4. 老師當日示範
+https://editor.p5js.org/chanlongfunglazarus/sketches/e_hXQ4bDX
+
 
 # Digital Senses Lesson 3 : 聲音：自製錄音及聲音載入軟件
 
@@ -38,7 +44,10 @@ https://editor.p5js.org/chanlongfunglazarus/collections/oDjhv9zJk
 3. 課堂Slide:
 [JC-IDEA (Student's Section) Lesson3.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/blob/main/JC-IDEA%20(Student's%20Section)%20Lesson3.pdf)
 
-4. 開源的音樂樣本:
+4. 老師當日示範
+https://editor.p5js.org/chanlongfunglazarus/sketches/e_hXQ4bDX
+
+5. 開源的音樂樣本:
 https://file-examples.com/index.php/sample-audio-files/sample-mp3-download/
 
 # Digital Senses Lesson 4 : 互動：創作與聲音互動的攝影軟件
@@ -52,7 +61,10 @@ https://editor.p5js.org/chanlongfunglazarus/collections/Gk_P-XY-P
 3. 課堂Slide:
 [JC-IDEA (Student's Section) Lesson4.pdf](https://github.com/JC-Project-IDEA/Digital-Senses/blob/main/JC-IDEA%20(Student's%20Section)%20Lesson4.pdf)
 
-4. MIDI NOTE
+4. 老師當日示範
+https://editor.p5js.org/chanlongfunglazarus/sketches/e_hXQ4bDX
+
+5. MIDI NOTE
 https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
 ## 自學區
