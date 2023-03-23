@@ -79,5 +79,22 @@ https://www.youtube.com/@TheCodingTrain
 3. AI 圖片生成器
 https://you.com/search?q=%40draw+a+cute+dog+in+space&tbm=imagine&cfr=imagine
 
+4. ChatGPT 3.5
+https://poe.com/chatgpt
+使用例子 :
+以 繁體中文 在 P5.js 編碼的每一行列下方加入說明 let img;
+
+function preload() {
+img = loadImage("img.png");
+}
+
+function setup() {
+createCanvas(512,512);
+image(img, 0, 0);
+}
+
+5. 下載 Moving .gif
+https://giphy.com/
+
 
 
