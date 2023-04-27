@@ -77,7 +77,7 @@ https://thecodingtrain.com/tracks/code-programming-with-p5-js
 https://www.youtube.com/@TheCodingTrain
 
 3. AI 圖片生成器
-https://you.com/search?q=%40draw+a+cute+dog+in+space&tbm=imagine&cfr=imagine
+https://huggingface.co/spaces/stabilityai/stable-diffusion
 
 4. ChatGPT 3.5
 https://poe.com/chatgpt
